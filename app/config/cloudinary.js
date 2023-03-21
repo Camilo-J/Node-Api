@@ -14,4 +14,4 @@ const storage = new CloudinaryStorage({
     folder: "DEV",
   },
 });
-export { storage };
+export { storage, cloudinary };
