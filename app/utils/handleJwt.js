@@ -19,7 +19,7 @@ const tokenSign = async (user) => {
     }
   );
 
-  return tokenSign;
+  return sign;
 };
 
 /**
